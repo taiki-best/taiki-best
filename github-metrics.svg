@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="142" class="large">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.avatar{border-radius:50%;margin:0 6px}.people{padding:0 10px}.people .avatar{margin:0 2px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
+                    </svg>
+                    1 follower
+                </h2>
+                <div class="row">
+                    <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,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" width="64" height="64" alt="" />
+                    </section>
+                </div>
+            </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
+                    </svg>
+                    0 followed
+                </h2>
+                <div class="row">
+                    <section class="people">
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
